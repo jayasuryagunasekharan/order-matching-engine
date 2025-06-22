@@ -80,6 +80,4 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Output files (keep trades.csv as it's part of the project)
-# stats.txt will be generated during runtime
-stats.txt 
+# Note: stats.txt is now tracked in the repository 
